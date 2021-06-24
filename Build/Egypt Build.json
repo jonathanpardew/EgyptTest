@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Egypt 1.0",
+"productVersion": "1.0",
+"dataUrl": "Egypt Build.data.unityweb",
+"wasmCodeUrl": "Egypt Build.wasm.code.unityweb",
+"wasmFrameworkUrl": "Egypt Build.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.4.26f1"
+}
